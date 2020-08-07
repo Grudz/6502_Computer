@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 74LS04)(type Legacy)(uri /home/bdawg/KiCad_Projects/Symbols/KiCAD_S04/2020-06-05_06-12-30/74LS04.lib)(options "")(descr ""))
+  (lib (name 74LS08)(type Legacy)(uri /home/bdawg/KiCad_Projects/Symbols/KiCAD_S08/2020-06-05_06-29-17/74LS08.lib)(options "")(descr ""))
+  (lib (name 74LS32)(type Legacy)(uri /home/bdawg/KiCad_Projects/Symbols/KiCAD_S32/2020-06-05_06-32-21/74LS32.lib)(options "")(descr ""))
+  (lib (name EG1218)(type Legacy)(uri /home/bdawg/KiCad_Projects/Symbols/KiCAD_EG1218/2020-06-08_21-36-44/EG1218.lib)(options "")(descr ""))
+)
