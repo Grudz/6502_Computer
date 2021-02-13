@@ -6,8 +6,8 @@ This repository stores everything for my 6502 project. This includes schematics,
 -----
 ### Pretty dope red PCB I designed (4 layers:wink:)
 
-![](media/gem_sim2.gif)
+![](media/6502_vid_2.gif)
 
 ### My Breadboard, not too shabby:sunglasses:
 
-![](media/gem_sim2.gif)
+![](media/6502_breadboard.jpg)
